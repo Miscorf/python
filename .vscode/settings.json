@@ -1,0 +1,5 @@
+{
+    //"python.pythonPath": "D:\\python\\python.exe" ,//路径
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+}

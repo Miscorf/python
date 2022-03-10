@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Destop\\研究生文档\\数据挖掘\\machine_learning_step_by_step"
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local",
+		"python.analysis.extraPaths":[
+		"D:\\Mis\\project\\python\\",
+		]
+	}
+	
+}

@@ -1,0 +1,4 @@
+ent1,rel,ent2
+<http://bio2rdf.org/drugbank:DB00001>,ddi-interactor-in,<http://bio2rdf.org/drugbank:DB06605>
+://bio2rdf.org<http/drugbank:DB00001>,ddi-interactor-in,<http://bio2rdf.org/drugbank:DB01586>
+<http://bio2rdf.org/drugbank:DB00001>,ddi-interactor-in,<http://bio2rdf.org/drugbank:DB02123>
